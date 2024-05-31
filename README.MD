@@ -40,16 +40,6 @@ AREDCI develops a self-similarity-based algorithm for evaluating inter-sample re
 ### Differential Chromatin Interaction (DCI) Identification
 AREDCI designs algorithms based on KDE, local contextual information, MD, and SSRD to enhance the accuracy and reliability of DCI identification.
 
-## Algorithm Details
-AREDCI employs several algorithms to improve the accuracy of DCI identification:
-- **Kernel Density Estimation (KDE)**: Used to estimate the distribution function of the error ratio.
-- **Local Contextual Information**: A network-based approach to analyze DCI by integrating local context features of interactions.
-- **Minus, or difference vs. Distance (MD)**: A method based on the ratio of fitted values between sample groups.
-- **Signed Squared Relative Difference (SSRD)**: An improved method for identifying DCI between sample groups.
-
-## Experimental Results
-AREDCI demonstrates commendable precision, recall, and F1-score in both simulated and real-world datasets, showcasing its effectiveness in analyzing chromatin interaction data.
-
 ## Experimental Data
 The accession numbers for the data sets used in this study are as follows:  
 * GM12878:

@@ -1,4 +1,4 @@
-# AREDCI: An Optimized Approach to Assess REproducibility and Differential Chromatin Interactions
+# AREDCI: Assessing REproducibility and Differential Chromatin Interactions
 
 ## Project Overview
 AREDCI is a novel approach designed to address the challenges in analyzing ChIA-PET sequencing data. It integrates data preprocessing, normalization, reproducibility assessment, and differential chromatin interaction (DCI) identification to provide robust evaluation of sample consistency and enhance the accuracy and reliability of DCI identification.

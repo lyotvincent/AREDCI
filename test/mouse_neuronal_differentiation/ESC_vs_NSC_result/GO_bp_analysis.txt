@@ -1,0 +1,71 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240226)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Mus musculus - REFLIST (21983)	upload_1 (920)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+positive regulation of lactation (GO:1903489)	27	23	1.13	+	20.35	2.28E-28	3.52E-24
+regulation of lactation (GO:1903487)	28	23	1.17	+	19.63	1.23E-27	9.46E-24
+positive regulation of receptor signaling pathway via JAK-STAT (GO:0046427)	62	23	2.59	+	8.86	1.92E-16	4.93E-13
+intermediate filament organization (GO:0045109)	75	27	3.14	+	8.60	1.14E-18	3.50E-15
+positive regulation of receptor signaling pathway via STAT (GO:1904894)	67	23	2.80	+	8.20	1.40E-15	2.39E-12
+intermediate filament cytoskeleton organization (GO:0045104)	94	27	3.93	+	6.86	7.93E-16	1.74E-12
+intermediate filament-based process (GO:0045103)	95	27	3.98	+	6.79	1.06E-15	2.05E-12
+response to pheromone (GO:0019236)	105	28	4.39	+	6.37	1.93E-15	2.97E-12
+regulation of receptor signaling pathway via JAK-STAT (GO:0046425)	98	25	4.10	+	6.10	1.87E-13	2.62E-10
+hair follicle morphogenesis (GO:0031069)	38	9	1.59	+	5.66	2.06E-05	6.36E-03
+regulation of receptor signaling pathway via STAT (GO:1904892)	106	25	4.44	+	5.64	1.28E-12	1.51E-09
+protection from natural killer cell mediated cytotoxicity (GO:0042270)	35	8	1.46	+	5.46	7.84E-05	2.20E-02
+epidermis morphogenesis (GO:0048730)	44	10	1.84	+	5.43	1.07E-05	3.42E-03
+mammary gland development (GO:0030879)	154	31	6.44	+	4.81	2.59E-13	3.32E-10
+female pregnancy (GO:0007565)	152	26	6.36	+	4.09	9.26E-10	6.79E-07
+negative regulation of cell killing (GO:0031342)	60	10	2.51	+	3.98	1.77E-04	4.61E-02
+multi-organism reproductive process (GO:0044703)	181	28	7.57	+	3.70	2.25E-09	1.58E-06
+multi-multicellular organism process (GO:0044706)	186	27	7.78	+	3.47	1.76E-08	9.33E-06
+heterochromatin organization (GO:0070828)	133	16	5.57	+	2.87	1.42E-04	3.78E-02
+regulation of body fluid levels (GO:0050878)	327	37	13.69	+	2.70	4.34E-08	2.23E-05
+response to extracellular stimulus (GO:0009991)	442	49	18.50	+	2.65	5.69E-10	4.38E-07
+response to nutrient levels (GO:0031667)	409	45	17.12	+	2.63	3.67E-09	2.45E-06
+gland development (GO:0048732)	457	48	19.13	+	2.51	7.71E-09	4.57E-06
+skeletal system morphogenesis (GO:0048705)	256	25	10.71	+	2.33	9.60E-05	2.59E-02
+positive regulation of secretion (GO:0051047)	437	42	18.29	+	2.30	6.60E-07	2.67E-04
+supramolecular fiber organization (GO:0097435)	582	52	24.36	+	2.13	2.81E-07	1.17E-04
+epithelial cell differentiation (GO:0030855)	640	51	26.78	+	1.90	1.23E-05	3.88E-03
+regulation of secretion (GO:0051046)	775	57	32.43	+	1.76	3.49E-05	1.01E-02
+regulation of transcription by RNA polymerase II (GO:0006357)	2470	172	103.37	+	1.66	1.19E-11	1.14E-08
+positive regulation of developmental process (GO:0051094)	1515	97	63.40	+	1.53	2.57E-05	7.77E-03
+regulation of multicellular organismal development (GO:2000026)	1592	101	66.63	+	1.52	2.89E-05	8.57E-03
+regulation of DNA-templated transcription (GO:0006355)	3185	196	133.29	+	1.47	1.38E-08	7.89E-06
+regulation of RNA biosynthetic process (GO:2001141)	3196	196	133.75	+	1.47	1.49E-08	8.22E-06
+regulation of RNA metabolic process (GO:0051252)	3505	209	146.69	+	1.42	4.96E-08	2.39E-05
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	3806	220	159.28	+	1.38	2.19E-07	9.39E-05
+regulation of nitrogen compound metabolic process (GO:0051171)	5404	298	226.16	+	1.32	4.95E-08	2.46E-05
+regulation of gene expression (GO:0010468)	4736	258	198.20	+	1.30	1.92E-06	7.21E-04
+regulation of primary metabolic process (GO:0080090)	5594	303	234.11	+	1.29	2.07E-07	9.10E-05
+regulation of macromolecule biosynthetic process (GO:0010556)	4863	263	203.52	+	1.29	2.90E-06	1.04E-03
+regulation of cellular biosynthetic process (GO:0031326)	5021	268	210.13	+	1.28	6.69E-06	2.24E-03
+regulation of biosynthetic process (GO:0009889)	5065	269	211.97	+	1.27	8.69E-06	2.85E-03
+regulation of macromolecule metabolic process (GO:0060255)	6031	318	252.40	+	1.26	1.29E-06	5.09E-04
+regulation of metabolic process (GO:0019222)	6551	340	274.16	+	1.24	1.95E-06	7.16E-04
+regulation of cellular metabolic process (GO:0031323)	5927	303	248.05	+	1.22	4.75E-05	1.36E-02
+cellular response to stimulus (GO:0051716)	6747	229	282.37	-	.81	7.89E-05	2.17E-02
+cell communication (GO:0007154)	5475	172	229.13	-	.75	5.05E-06	1.73E-03
+signal transduction (GO:0007165)	5007	154	209.55	-	.73	4.52E-06	1.58E-03
+signaling (GO:0023052)	5307	163	222.10	-	.73	1.82E-06	7.02E-04
+system process (GO:0003008)	2798	63	117.10	-	.54	5.10E-09	3.27E-06
+nervous system process (GO:0050877)	2224	49	93.08	-	.53	1.31E-07	5.92E-05
+G protein-coupled receptor signaling pathway (GO:0007186)	1904	30	79.68	-	.38	4.14E-11	3.75E-08
+sensory perception (GO:0007600)	1669	25	69.85	-	.36	1.93E-10	1.56E-07
+detection of stimulus (GO:0051606)	805	8	33.69	-	.24	1.24E-07	5.80E-05
+detection of stimulus involved in sensory perception (GO:0050906)	697	4	29.17	-	.14	6.61E-09	4.07E-06
+sensory perception of smell (GO:0007608)	1162	2	48.63	-	.04	1.63E-19	6.26E-16
+sensory perception of chemical stimulus (GO:0007606)	1262	2	52.82	-	.04	2.91E-21	1.49E-17
+detection of chemical stimulus involved in sensory perception of smell (GO:0050911)	548	0	22.93	-	 < 0.01	8.11E-11	6.94E-08
+detection of chemical stimulus involved in sensory perception (GO:0050907)	605	0	25.32	-	 < 0.01	7.37E-12	7.57E-09
+detection of chemical stimulus (GO:0009593)	637	0	26.66	-	 < 0.01	2.38E-12	2.62E-09

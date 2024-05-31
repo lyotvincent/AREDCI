@@ -1,0 +1,79 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240226)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Mus musculus - REFLIST (21983)	upload_1 (914)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+positive regulation of lactation (GO:1903489)	27	23	1.12	+	20.49	1.96E-28	3.02E-24
+regulation of lactation (GO:1903487)	28	23	1.16	+	19.76	1.06E-27	8.14E-24
+development of secondary female sexual characteristics (GO:0046543)	10	5	.42	+	12.03	2.60E-05	7.85E-03
+positive regulation of receptor signaling pathway via JAK-STAT (GO:0046427)	62	24	2.58	+	9.31	1.14E-17	2.93E-14
+development of secondary sexual characteristics (GO:0045136)	13	5	.54	+	9.25	1.20E-04	3.02E-02
+intermediate filament organization (GO:0045109)	75	27	3.12	+	8.66	9.62E-19	2.96E-15
+positive regulation of receptor signaling pathway via STAT (GO:1904894)	67	24	2.79	+	8.62	9.40E-17	1.61E-13
+intermediate filament cytoskeleton organization (GO:0045104)	94	28	3.91	+	7.16	6.79E-17	1.49E-13
+intermediate filament-based process (GO:0045103)	95	28	3.95	+	7.09	9.25E-17	1.78E-13
+positive regulation of epidermal cell differentiation (GO:0045606)	22	6	.91	+	6.56	2.14E-04	4.91E-02
+positive regulation of epidermis development (GO:0045684)	26	7	1.08	+	6.48	6.90E-05	1.90E-02
+response to pheromone (GO:0019236)	105	28	4.37	+	6.41	1.63E-15	2.29E-12
+regulation of receptor signaling pathway via JAK-STAT (GO:0046425)	98	25	4.07	+	6.14	1.62E-13	2.08E-10
+peptide cross-linking (GO:0018149)	32	8	1.33	+	6.01	3.74E-05	1.11E-02
+regulation of receptor signaling pathway via STAT (GO:1904892)	106	25	4.41	+	5.67	1.11E-12	1.31E-09
+protection from natural killer cell mediated cytotoxicity (GO:0042270)	35	8	1.46	+	5.50	7.49E-05	2.02E-02
+mammary gland development (GO:0030879)	154	34	6.40	+	5.31	8.04E-16	1.24E-12
+regulation of epidermis development (GO:0045682)	63	12	2.62	+	4.58	9.36E-06	3.13E-03
+regulation of epidermal cell differentiation (GO:0045604)	56	10	2.33	+	4.29	9.19E-05	2.36E-02
+female pregnancy (GO:0007565)	152	26	6.32	+	4.11	8.07E-10	5.40E-07
+negative regulation of cell killing (GO:0031342)	60	10	2.49	+	4.01	1.68E-04	3.97E-02
+multi-organism reproductive process (GO:0044703)	181	27	7.53	+	3.59	8.46E-09	4.82E-06
+multi-multicellular organism process (GO:0044706)	186	26	7.73	+	3.36	6.18E-08	3.07E-05
+gland development (GO:0048732)	457	49	19.00	+	2.58	1.42E-09	8.74E-07
+regulation of body fluid levels (GO:0050878)	327	35	13.60	+	2.57	3.32E-07	1.50E-04
+skeletal system morphogenesis (GO:0048705)	256	25	10.64	+	2.35	8.95E-05	2.38E-02
+positive regulation of secretion (GO:0051047)	437	42	18.17	+	2.31	5.93E-07	2.61E-04
+response to nutrient levels (GO:0031667)	409	39	17.01	+	2.29	1.85E-06	7.32E-04
+response to extracellular stimulus (GO:0009991)	442	42	18.38	+	2.29	7.23E-07	3.09E-04
+supramolecular fiber organization (GO:0097435)	582	55	24.20	+	2.27	1.80E-08	9.58E-06
+epithelial cell differentiation (GO:0030855)	640	49	26.61	+	1.84	4.64E-05	1.35E-02
+regulation of secretion (GO:0051046)	775	56	32.22	+	1.74	6.87E-05	1.92E-02
+regulation of transcription by RNA polymerase II (GO:0006357)	2470	166	102.70	+	1.62	2.81E-10	1.97E-07
+regulation of multicellular organismal development (GO:2000026)	1592	104	66.19	+	1.57	4.37E-06	1.64E-03
+epithelium development (GO:0060429)	1205	77	50.10	+	1.54	1.89E-04	4.41E-02
+regulation of DNA-templated transcription (GO:0006355)	3185	190	132.42	+	1.43	1.48E-07	7.13E-05
+regulation of RNA biosynthetic process (GO:2001141)	3196	190	132.88	+	1.43	2.00E-07	9.35E-05
+regulation of RNA metabolic process (GO:0051252)	3505	200	145.73	+	1.37	1.48E-06	6.16E-04
+animal organ development (GO:0048513)	2942	162	122.32	+	1.32	1.56E-04	3.82E-02
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	3806	205	158.24	+	1.30	5.63E-05	1.61E-02
+regulation of gene expression (GO:0010468)	4736	254	196.91	+	1.29	4.90E-06	1.80E-03
+regulation of macromolecule biosynthetic process (GO:0010556)	4863	260	202.19	+	1.29	4.90E-06	1.76E-03
+regulation of nitrogen compound metabolic process (GO:0051171)	5404	285	224.69	+	1.27	4.21E-06	1.62E-03
+regulation of cellular biosynthetic process (GO:0031326)	5021	264	208.76	+	1.26	1.60E-05	5.02E-03
+regulation of biosynthetic process (GO:0009889)	5065	266	210.59	+	1.26	1.43E-05	4.57E-03
+regulation of primary metabolic process (GO:0080090)	5594	291	232.58	+	1.25	9.45E-06	3.10E-03
+regulation of macromolecule metabolic process (GO:0060255)	6031	311	250.75	+	1.24	7.66E-06	2.62E-03
+regulation of metabolic process (GO:0019222)	6551	331	272.37	+	1.22	2.10E-05	6.47E-03
+regulation of cellular metabolic process (GO:0031323)	5927	297	246.43	+	1.21	1.61E-04	3.87E-02
+cellular process (GO:0009987)	15465	580	643.00	-	.90	5.15E-06	1.80E-03
+cellular response to stimulus (GO:0051716)	6747	216	280.52	-	.77	1.53E-06	6.19E-04
+cell communication (GO:0007154)	5475	154	227.64	-	.68	2.55E-09	1.51E-06
+signal transduction (GO:0007165)	5007	140	208.18	-	.67	1.21E-08	6.65E-06
+signaling (GO:0023052)	5307	146	220.65	-	.66	1.03E-09	6.63E-07
+nervous system process (GO:0050877)	2224	47	92.47	-	.51	4.52E-08	2.32E-05
+system process (GO:0003008)	2798	58	116.33	-	.50	1.78E-10	1.30E-07
+G protein-coupled receptor signaling pathway (GO:0007186)	1904	30	79.16	-	.38	5.49E-11	4.45E-08
+sensory perception (GO:0007600)	1669	21	69.39	-	.30	1.89E-12	2.08E-09
+detection of stimulus (GO:0051606)	805	3	33.47	-	.09	1.45E-11	1.24E-08
+immunoglobulin mediated immune response (GO:0016064)	288	1	11.97	-	.08	1.37E-04	3.40E-02
+B cell mediated immunity (GO:0019724)	293	1	12.18	-	.08	9.03E-05	2.36E-02
+detection of stimulus involved in sensory perception (GO:0050906)	697	1	28.98	-	.03	5.78E-12	5.56E-09
+sensory perception of smell (GO:0007608)	1162	1	48.31	-	.02	9.42E-21	3.63E-17
+sensory perception of chemical stimulus (GO:0007606)	1262	1	52.47	-	.02	9.67E-23	4.96E-19
+detection of chemical stimulus involved in sensory perception of smell (GO:0050911)	548	0	22.78	-	 < 0.01	1.29E-10	9.94E-08
+detection of chemical stimulus involved in sensory perception (GO:0050907)	605	0	25.15	-	 < 0.01	7.31E-12	6.62E-09
+detection of chemical stimulus (GO:0009593)	637	0	26.48	-	 < 0.01	2.22E-12	2.28E-09

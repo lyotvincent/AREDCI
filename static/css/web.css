@@ -1,0 +1,154 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+div {
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+button {
+    background-color: #22B14C;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+input[type="number"], input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* input[type="checkbox"] {
+    margin: 10px;
+} */
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    /* background-color: #f6f6f6;
+    border: 1px solid #7F7F7F;
+    border-radius: 4px;
+    cursor: pointer; */
+    /* -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none; */
+}
+
+/* input[type="checkbox"]:checked {
+    background-color: #66bb6a;
+    border-color: #7F7F7F;
+} */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+#file_inputs_table td:first-child {
+    width: 60%;
+}
+
+#file_inputs_table td:nth-child(2),
+#file_inputs_table td:nth-child(3) {
+    width: 20%;
+}
+
+#reproducibility_result {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#reproducibility_result th {
+    background-color: #f2f2f2;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#reproducibility_result td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#reproducibility_result tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#method_selector {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#method_selector th {
+    background-color: #f2f2f2;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#method_selector td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#method_selector label {
+    margin-right: 5px;
+}
+
+#method_selector input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+#method_selector select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    font-size: 14px;
+    width: 150px;
+}
+
+#method_selector select:hover {
+    border-color: #007bff; /* 鼠标悬停时边框颜色 */
+}
+
+#method_selector select:focus {
+    outline: none; /* 去除获取焦点时的默认样式 */
+    border-color: #007bff; /* 获取焦点时边框颜色 */
+}
+

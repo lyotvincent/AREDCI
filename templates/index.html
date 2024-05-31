@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AREDCI</title>
+    <!-- import css from /static/css/web.css -->
+    <link rel="stylesheet" href="/static/css/web.css">
+</head>
+<body>
+<div>
+    <h1> Welcome to AREDCI: An Optimized Approach to Assess REproducibility and Differential Chromatin Interactions for ChIA-PET Sequencing Data </h1>
+    <hr/>
+    <!-- <button onclick="log111()">log111</button> -->
+    <div>
+        <h2>File upload</h2>
+        <label>file num:</label>&nbsp;<input type="number" id="file_num" min="2" />
+        <div id="file_inputs_container"></div>
+    </div>
+    <hr/>
+    <div>
+        <h2>Quality Control Parameters</h2>
+        <table>
+            <tr><td><label>gap:</label></td><td><input type="number" id="gap" placeholder="500"/></td></tr>
+            <tr><td><label>blacklist path:</label></td><td><input type="text" id="blacklist_path" placeholder="./data/blacklist/hg38-blacklist.v2.bed"/></td></tr>
+            <tr><td><label>remove loops in blacklist:</label></td><td><input type="checkbox" id="remove_loops_in_blacklist" checked/></td></tr>
+            <tr><td><label>remove self ligated loops:</label></td><td><input type="checkbox" id="remove_self_ligated_loops" checked/></td></tr>
+            <tr><td><label>fdr threshold:</label></td><td><input type="number" id="fdr_threshold" placeholder="0.01"/></td></tr>
+            <tr><td><label>loop length threshold:</label></td><td><input type="number" id="loop_len_threshold" placeholder="0.01"/></td></tr>
+            <tr><td><label>intra only:</label></td><td><input type="checkbox" id="intra_only" checked/></td></tr>
+            <tr><td><label>chr filter:</label></td><td><input type="text" id="chr_filter" placeholder='chrM,chrX'/></td></tr>
+            <tr><td><label>pet threshold:</label></td><td><input type="number" id="pet_threshold" placeholder="5"/></td></tr>
+        </table>
+    </div>
+    <hr/>
+    <div>
+        <h2>Method Selection</h2>
+        <table id="method_selector">
+            <tr><td><label>Normalization method:</label></td><td><label>enable:</label><input type="checkbox" id="norm_checkbox" checked/><label>&nbsp;figure demand:</label><input type="checkbox" id="fig_demand" checked/></td><td><select id="norm_method">
+                <option value="tmm">TMM</option>
+                <option value="ma">MA</option>
+                <option value="md">MD</option>
+                <option value="ssrd">SSRD</option>
+            </select></td></tr>
+            <tr><td>Enabling reproducibility assessment</td><td><label>enable sample-level reproducibility:</label><input type="checkbox" id="reproducibility_checkbox" checked/></td><td><label>enable idr for interactions:</label><input type="checkbox" id="idr_checkbox" checked/></td></tr>
+            <tr><td><label>DCI identification method:</label></td><td><label>enable:</label><input type="checkbox" id="dci_checkbox" checked/></td><td><select id="dci_method">
+                <option value="kde">KDE</option>
+                <option value="neighbor">Local Context</option>
+                <option value="md">MD</option>
+                <option value="ssrd">SSRD</option>
+            </select></td></tr>
+        </table>
+    </div>
+    <hr/>
+    <div>
+        <h2>Output</h2>
+        <table>
+            <tr><td><label>output path:</label></td><td><input type="text" id="output_path" placeholder="./output/"/></td></tr>
+        </table>
+    </div>
+    <hr/>
+    <button type="button" onclick="example()">an example</button>
+    <button type="submit" onclick="run_dci()">Run DCI analysis</button>
+    <hr/>
+    <div id="result"></div>
+</div>
+<!-- import js /static/js/dci.js -->
+<script src="/static/js/dci.js"></script>
+</body>
+</html>
+

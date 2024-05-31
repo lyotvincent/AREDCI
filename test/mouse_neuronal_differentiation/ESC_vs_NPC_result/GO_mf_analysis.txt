@@ -1,0 +1,54 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240226)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Mus musculus - REFLIST (21983)	upload_1 (914)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+prolactin receptor binding (GO:0005148)	28	23	1.16	+	19.76	1.06E-27	5.28E-24
+1-acylglycerophosphoserine O-acyltransferase activity (GO:0106263)	4	3	.17	+	18.04	2.78E-04	3.47E-02
+1-acylglycerophosphoethanolamine O-acyltransferase activity (GO:0106262)	4	3	.17	+	18.04	2.78E-04	3.39E-02
+aldehyde oxidase activity (GO:0004031)	6	4	.25	+	16.03	4.16E-05	6.94E-03
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, oxygen as acceptor (GO:0016623)	7	4	.29	+	13.74	9.40E-05	1.31E-02
+protein-glutamine gamma-glutamyltransferase activity (GO:0003810)	9	4	.37	+	10.69	3.16E-04	3.77E-02
+pheromone binding (GO:0005550)	91	28	3.78	+	7.40	2.61E-17	4.35E-14
+2 iron, 2 sulfur cluster binding (GO:0051537)	27	8	1.12	+	7.13	9.50E-06	1.83E-03
+pheromone receptor activity (GO:0016503)	99	28	4.12	+	6.80	3.06E-16	3.82E-13
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process (GO:0043027)	34	8	1.41	+	5.66	6.00E-05	9.68E-03
+hormone activity (GO:0005179)	139	29	5.78	+	5.02	4.98E-13	4.15E-10
+structural constituent of chromatin (GO:0030527)	40	8	1.66	+	4.81	2.04E-04	2.68E-02
+FAD binding (GO:0071949)	45	9	1.87	+	4.81	8.21E-05	1.24E-02
+nucleosomal DNA binding (GO:0031492)	54	10	2.25	+	4.45	6.66E-05	1.04E-02
+serine-type endopeptidase inhibitor activity (GO:0004867)	129	17	5.36	+	3.17	2.55E-05	4.55E-03
+cytokine receptor binding (GO:0005126)	317	29	13.18	+	2.20	8.40E-05	1.24E-02
+structural molecule activity (GO:0005198)	654	59	27.19	+	2.17	2.38E-08	6.25E-06
+protein heterodimerization activity (GO:0046982)	306	27	12.72	+	2.12	2.37E-04	3.03E-02
+cis-regulatory region sequence-specific DNA binding (GO:0000987)	1146	99	47.65	+	2.08	5.07E-12	2.53E-09
+RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	1121	96	46.61	+	2.06	1.63E-11	5.81E-09
+DNA-binding transcription factor activity, RNA polymerase II-specific (GO:0000981)	1265	107	52.60	+	2.03	2.15E-12	1.34E-09
+DNA-binding transcription factor activity (GO:0003700)	1321	111	54.92	+	2.02	1.27E-12	9.06E-10
+RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	1322	109	54.97	+	1.98	6.46E-12	2.94E-09
+DNA-binding transcription activator activity (GO:0001216)	535	44	22.24	+	1.98	2.23E-05	4.13E-03
+DNA-binding transcription activator activity, RNA polymerase II-specific (GO:0001228)	528	43	21.95	+	1.96	3.28E-05	5.66E-03
+transcription cis-regulatory region binding (GO:0000976)	1421	114	59.08	+	1.93	1.29E-11	5.39E-09
+transcription regulatory region nucleic acid binding (GO:0001067)	1426	114	59.29	+	1.92	1.40E-11	5.40E-09
+double-stranded DNA binding (GO:0003690)	1577	124	65.57	+	1.89	4.86E-12	2.70E-09
+sequence-specific double-stranded DNA binding (GO:1990837)	1477	116	61.41	+	1.89	3.10E-11	1.03E-08
+sequence-specific DNA binding (GO:0043565)	1577	121	65.57	+	1.85	5.11E-11	1.50E-08
+transcription regulator activity (GO:0140110)	1794	133	74.59	+	1.78	3.82E-11	1.19E-08
+chromatin binding (GO:0003682)	696	51	28.94	+	1.76	9.61E-05	1.30E-02
+DNA binding (GO:0003677)	2308	169	95.96	+	1.76	1.25E-13	1.25E-10
+nucleic acid binding (GO:0003676)	3387	205	140.82	+	1.46	1.27E-08	3.52E-06
+organic cyclic compound binding (GO:0097159)	5485	294	228.05	+	1.29	5.45E-07	1.36E-04
+binding (GO:0005488)	14170	653	589.15	+	1.11	5.12E-06	1.07E-03
+molecular transducer activity (GO:0060089)	2421	58	100.66	-	.58	1.07E-06	2.56E-04
+signaling receptor activity (GO:0038023)	2421	58	100.66	-	.58	1.07E-06	2.44E-04
+transmembrane signaling receptor activity (GO:0004888)	2205	52	91.68	-	.57	2.11E-06	4.58E-04
+endopeptidase activity (GO:0004175)	440	4	18.29	-	.22	8.90E-05	1.27E-02
+antigen binding (GO:0003823)	287	0	11.93	-	 < 0.01	8.37E-06	1.67E-03
+olfactory receptor activity (GO:0004984)	1169	0	48.60	-	 < 0.01	1.56E-22	3.91E-19

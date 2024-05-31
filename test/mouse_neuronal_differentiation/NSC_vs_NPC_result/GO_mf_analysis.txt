@@ -1,0 +1,38 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240226)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.10536401 Released 2024-01-17
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Mus musculus - REFLIST (21983)	upload_1 (709)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+proteinase-activated receptor activity (GO:0001648)	4	3	.13	+	23.25	1.30E-04	2.84E-02
+thrombin-activated receptor activity (GO:0015057)	4	3	.13	+	23.25	1.30E-04	2.72E-02
+NADPH binding (GO:0070402)	18	5	.58	+	8.61	2.08E-04	4.00E-02
+structural molecule activity (GO:0005198)	654	52	21.09	+	2.47	2.66E-09	6.66E-06
+DNA-binding transcription factor activity, RNA polymerase II-specific (GO:0000981)	1265	70	40.80	+	1.72	1.15E-05	4.10E-03
+DNA-binding transcription factor activity (GO:0003700)	1321	72	42.61	+	1.69	1.24E-05	4.12E-03
+RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	1121	61	36.15	+	1.69	8.12E-05	1.85E-02
+transcription cis-regulatory region binding (GO:0000976)	1421	77	45.83	+	1.68	8.04E-06	4.02E-03
+sequence-specific double-stranded DNA binding (GO:1990837)	1477	80	47.64	+	1.68	5.64E-06	3.52E-03
+cis-regulatory region sequence-specific DNA binding (GO:0000987)	1146	62	36.96	+	1.68	6.84E-05	1.71E-02
+transcription regulatory region nucleic acid binding (GO:0001067)	1426	77	45.99	+	1.67	8.48E-06	3.86E-03
+sequence-specific DNA binding (GO:0043565)	1577	85	50.86	+	1.67	2.70E-06	1.93E-03
+RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	1322	70	42.64	+	1.64	5.17E-05	1.44E-02
+double-stranded DNA binding (GO:0003690)	1577	82	50.86	+	1.61	1.61E-05	5.04E-03
+transcription regulator activity (GO:0140110)	1794	89	57.86	+	1.54	4.74E-05	1.39E-02
+DNA binding (GO:0003677)	2308	113	74.44	+	1.52	6.50E-06	3.61E-03
+nucleic acid binding (GO:0003676)	3387	149	109.24	+	1.36	5.55E-05	1.46E-02
+organic cyclic compound binding (GO:0097159)	5485	223	176.90	+	1.26	7.00E-05	1.67E-02
+molecular_function (GO:0003674)	20589	692	664.04	+	1.04	1.39E-06	1.39E-03
+molecular transducer activity (GO:0060089)	2421	44	78.08	-	.56	1.04E-05	4.34E-03
+signaling receptor activity (GO:0038023)	2421	44	78.08	-	.56	1.04E-05	4.01E-03
+transmembrane signaling receptor activity (GO:0004888)	2205	36	71.12	-	.51	1.64E-06	1.37E-03
+Unclassified (UNCLASSIFIED)	1394	17	44.96	-	.38	1.39E-06	1.74E-03
+antigen binding (GO:0003823)	287	0	9.26	-	 < 0.01	1.40E-04	2.79E-02
+odorant binding (GO:0005549)	535	0	17.25	-	 < 0.01	3.46E-08	5.76E-05
+olfactory receptor activity (GO:0004984)	1169	0	37.70	-	 < 0.01	1.53E-17	7.65E-14

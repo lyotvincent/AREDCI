@@ -9,7 +9,7 @@ AREDCI is a novel approach designed to address the challenges in analyzing ChIA-
 
 ## Installation Guide
 ### System Requirements
-- Python 3.8 or higher
+- Python 3.7 or later
 
 ### Installation Steps
 1. Clone the repository to your local machine
@@ -35,7 +35,7 @@ AREDCI has a comprehensive preprocessing workflow to enhance data quality.
 AREDCI incorporates multiple normalization techniques including TMM, MA, MD, and SSRD.
 
 ### Reproducibility Assessment
-AREDCI develops a self-similarity-based algorithm for evaluating inter-sample reproducibility.
+AREDCI develops a self-similarity-based algorithm for evaluating inter-sample reproducibility. If user wants to evaluate the IDR of interactions, Python 3.7 are needed.
 
 ### Differential Chromatin Interaction (DCI) Identification
 AREDCI designs algorithms based on KDE, local contextual information, MD, and SSRD to enhance the accuracy and reliability of DCI identification.

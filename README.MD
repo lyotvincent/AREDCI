@@ -15,7 +15,7 @@ AREDCI is a novel approach designed to address the challenges in analyzing ChIA-
 1. Clone the repository to your local machine
 `git clone https://github.com/lyotvincent/AREDCI.git`
 
-2. Install dependencies according to requirements.txt
+2. Install dependencies according to requirements.txt, using conda or pip.
 
 ## Usage
 ### Using the Web Interface
